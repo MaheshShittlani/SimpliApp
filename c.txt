@@ -1,3 +1,0 @@
-# This is a branching demo
-
-# it cool to create a different path with braches.
